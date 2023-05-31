@@ -1,0 +1,14 @@
+.button{
+    background-color: #80BF32;
+    max-width: 120px;
+    height: 40px;
+    font-size: 16px
+}
+.search{
+    background-color: #414141;
+}
+.hed{
+    background-color: #F4F4F4;
+    height: 80px;
+    width:100%;
+}

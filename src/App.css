@@ -37,8 +37,14 @@
   }
 }
 
-.navbar-style{
-  display:flex;
-  padding:10px;
-  column-gap:5px;
+.nav{
+  padding:25px;
+  display: 'flex';
+  column-Gap:10px;
+  
+}
+
+.img{
+  height: 50%;
+  width: 50%;
 }
